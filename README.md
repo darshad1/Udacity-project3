@@ -43,6 +43,7 @@ washington.csv
 Reference material:
 https://pandas.pydata.org/docs/user_guide/index.html#user-guide
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html
+Udacity tutorial
 
 ### Software Needed
 Anaconda for running Python
